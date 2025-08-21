@@ -3,6 +3,7 @@
 import React from "react";
 import StyleKit from "./components/StyleKit";
 import ViscosityCalculator from "./components/ViscosityCalculator";
+import Image from "next/image";
 
 export default function Page() {
   return (
